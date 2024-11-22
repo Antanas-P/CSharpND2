@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6bf00371638383445aa3b62e497144b4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deathScreen: {instanceID: 0}
+  - enemySquarePrefab: {fileID: 5826818471536057395, guid: d6c4002a911de494db3b1e2fb1944cd6, type: 3}
+  - enemyTrianglePrefab: {fileID: 6590231580166323850, guid: 4a836b98307c8a84f931e84f822a35f6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
